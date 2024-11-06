@@ -26,7 +26,7 @@
 
 <h3>DEADLINE JURNAL</h3>
 <ul>
-  <li>Jurnal harus dikumpulkan paling lambat pada hari Kamis sebelum pukul 23.59 WITA. Jika melebihi batas waktu tersebut, akses ke repo akan dicabut secara otomatis dan kalian tidak dapat melakukan push lagi</li>
+  <li>Jurnal harus dikumpulkan paling lambat pada hari Jumat sebelum pukul 23.59 WITA. Jika melebihi batas waktu tersebut, akses ke repo akan dicabut secara otomatis dan kalian tidak dapat melakukan push lagi</li>
 </ul>
 
 <h3>SARAN</h3>
