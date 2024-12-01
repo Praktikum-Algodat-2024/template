@@ -8,13 +8,13 @@
 
 Jurnal akan terbagi menjadi 3 tingkatan soal: **Easy**, **Medium**, dan **Hard**. Berikut adalah rincian masing-masing tingkatan:
 
-1. **EASY**
+1. **Herald**
    - Dengan rentang nilai **40-60**
 
-2. **MEDIUM**
+2. **Archon**
    - Dengan rentang nilai **61-78**
 
-3. **HARD**
+3. **Immortal**
    - Dengan rentang nilai **79-100**
 
 ---
